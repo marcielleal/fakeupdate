@@ -1,2 +1,2 @@
 # fakeupdate
-Fake Windows Update Prank
+Based on [Fake Windows Update Prank](https://github.com/computernewb/fakeupdate).
